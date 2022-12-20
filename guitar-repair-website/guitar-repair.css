@@ -8,3 +8,39 @@ body {
     margin: 0px;
 }
 
+.page-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar {
+    background-color: rgb(20, 30, 45);
+    height: 50px;
+    border-bottom: solid black 1px;
+}
+
+.header {
+    border: 1px solid black;
+    height: 75px;
+}
+
+
+
+.main {
+    border: 1px solid black;
+    height: 50em;
+
+}
+
+.business-info {
+    background-color: lightgrey;
+    height: 30em;
+
+}
+
+.footer {
+    background-color: rgb(20,30,45);
+    height: 10em;
+
+}
+
