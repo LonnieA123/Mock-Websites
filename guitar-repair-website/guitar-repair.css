@@ -103,8 +103,12 @@ a:hover{
  float: left;
 }
 
+.row-alt-picture {
+    float: right;
+}
 
-.row-p{
+
+.row-pgh{
 
 }
 
