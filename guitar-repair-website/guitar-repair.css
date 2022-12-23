@@ -82,7 +82,7 @@ a:hover{
 
 
 .main {
-    /*margin-top: 50px;*/
+    margin: 50px 0 100px 0;
 
 
     display: flex;
@@ -96,11 +96,12 @@ a:hover{
     width: 200px;
     float: left;
     margin-right: 10px;
+    border: black solid 1px;
+    border-radius: 10px;
 
 }
 
 .alt-repair-image {
-    height: 250px;
     width: 250px;
     float: right;
     margin-left: 10px;
@@ -109,10 +110,17 @@ a:hover{
 
 
 .row{
-    border: 1px solid black;
-
     width: 80%;
-    /*display: inline-block;*/
+
+}
+
+.row p{
+
+
+}
+
+.column{
+
 }
 
 .business-info {
