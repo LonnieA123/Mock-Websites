@@ -95,20 +95,25 @@ a:hover{
 
 }
 
-.column p{
+.row-title{
 
+}
+
+.row-picture {
+ float: left;
+}
+
+
+.row-p{
 
 }
 
-.column{
-
-}
 
 
 .repair-image {
     height: 250px;
     width: 200px;
-    float: left;
+    /*float: left;*/
     margin-right: 10px;
     border: black solid 1px;
     border-radius: 10px;
@@ -117,8 +122,7 @@ a:hover{
 
 .alt-repair-image {
     width: 250px;
-    float: right;
-    margin-left: 10px;
+
 
 }
 
